@@ -22,4 +22,4 @@ Feel free to contribute by providing alternative solutions, optimizations, or ad
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/leetcode-solutions.git
+   git clone https://github.com/abeermosaad/LeetCode.git
